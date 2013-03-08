@@ -1,0 +1,12 @@
+Dubai Pedia:
+
+Description:
+Dubai Pedia is a big source of information about Dubai Life Style, in this app you will find info about outstanding hotels, cool night spot, best Culture, awesome sights, and simply it’s a tourism guide as well. Dubai Peida is an organized way to get info about Dubai.  
+
+Features:
+•	Best info about Dubai 
+(Culture, Hotels, Night Spots, Seeing Sight & Wonders).
+•	Pin to start item detail page option.
+•	Sharing any Info about Dubai.
+•	Searching feature
+•	Semantic and snapping modes. 
